@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175458558888",
+    "project_id": "vbtcase",
+    "storage_bucket": "vbtcase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175458558888:android:16157f2acce1d09a30b39d",
+        "android_client_info": {
+          "package_name": "com.bhdrburak.multilanguageandtheme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYxNweEyzzC4kba9_8Q67zaoicpfDEid8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

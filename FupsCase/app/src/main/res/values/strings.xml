@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FupsCase</string>
+
+    <string name="header_text">GSM numaranı ve şifreni girerek FUPS hesabına giriş yapabilirsin.</string>
+    <string name="forgot_password">Şifremi Unuttum</string>
+    <string name="submit">GİRİŞ</string>
+    <string name="offers">KAMPANYALAR</string>
+    <string name="all_offers">TÜM KAMPANYALAR</string>
+    <string name="gsm_no">GSM Numaran</string>
+    <string name="password">Şifren</string>
+    <string name="country_code">Ülke Kodu</string>
+    <string name="default_country_code">+90</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">MultiLanguageAndTheme</string>
+
+    <string name="hello_world">Merhaba Dünya</string>
+
+    <string name="kotlin_less">Kotlin Dersleri</string>
+
+
+    <string name="class_name">Sınıf Adı</string>
+    <string name="change_language">Dil Değiştir</string>
+    <string name="create_user">Kullanıcı Oluştur</string>
+
+</resources>

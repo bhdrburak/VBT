@@ -1,0 +1,19 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1203125" />
+        <entry key="app/src/main/res/layout/fragment_movie.xml" value="0.1118659420289855" />
+        <entry key="app/src/main/res/layout/fragment_movie_detail.xml" value="0.10625" />
+        <entry key="app/src/main/res/layout/movie_adapter_item.xml" value="0.1203125" />
+        <entry key="app/src/main/res/xml/network_security_config.xml" value="0.13171225937183384" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
